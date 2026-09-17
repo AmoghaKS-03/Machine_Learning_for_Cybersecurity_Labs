@@ -17,7 +17,7 @@ from sklearn.metrics import (
 )
 
 # 1. Load Dataset
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("A:\Academic\LABs\III_Sem\dataset.csv")
 
 print("Dataset loaded successfully!")
 print(df.head())
