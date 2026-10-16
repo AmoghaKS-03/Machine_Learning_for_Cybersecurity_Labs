@@ -29,7 +29,7 @@ from sklearn.metrics import (
 # 2. Load a representative sample
 # ============================================
 
-file_path = "A:\Academic\LABs\III_Sem\MLCS\ALLFLOWMETER_HIKARI2021.csv"
+file_path = "A:\Academic\LABs\III_Sem\ALLFLOWMETER_HIKARI2021.csv"
 
 chunks = []
 
